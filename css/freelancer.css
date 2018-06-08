@@ -423,6 +423,23 @@ fieldset[disabled] .btn-success.active {
   font-size: 20px;
   line-height: 45px;
 }
+.yellowbtn{
+ display: inline-block;
+	margin: 5px 0;
+	padding: .3em .55em;
+	border-radius: .25em;
+	box-sizing: content-box;
+	  color: #000;
+    text-shadow: 0 1px 0 #fcda7c;
+    border: 1px solid #dfac23;
+    border-bottom: 1px solid #c06f01;
+    box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.10);
+    background: #f5a802;
+    background: linear-gradient(to bottom, #fcd054 0%, #f5a802 100%);
+    font-size:15px;
+    font-weight:bold;
+}
+.yellowbtn:hover {background: linear-gradient(to bottom, #ffdc78 0%, #ffb618 100%); cursor:pointer;}
 .scroll-top {
   position: fixed;
   right: 2%;
