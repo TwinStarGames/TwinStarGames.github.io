@@ -64,11 +64,11 @@ hr.star-light:after {
   color: white;
 }
 hr.star-primary {
-  border-color: #2C3E50;
+  border-color: #18BC9C;
 }
 hr.star-primary:after {
   background-color: white;
-  color: #2C3E50;
+  color: #18BC9C;
 }
 .img-centered {
   margin: 0 auto;
@@ -291,7 +291,7 @@ section.success {
   opacity: 1;
 }
 .floating-label-form-group-with-focus label {
-  color: #18BC9C;
+  color: #D7DA42;
 }
 form .row:first-child .floating-label-form-group {
   border-top: 1px solid #eeeeee;
